@@ -1,0 +1,32 @@
+{
+  "Items": [
+    {
+      "id": 0,
+      "category": "cars",
+      "name": "Ferrari",
+      "img": "https://res.cloudinary.com/dypubdmrm/image/upload/v1624642077/car-4361321_1920_fvp5yl.jpg",
+      "description": "Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1939 out of the Alfa Romeo race division as Auto Avio Costruzioni,the company built its first car in 1940, and produced its first Ferrari-badged car in 1964"
+    },
+    {
+      "id": 1,
+      "category": "cars",
+      "name": "Porshe",
+      "img": "https://res.cloudinary.com/dypubdmrm/image/upload/v1624642077/porsche-1851246_1920_i2g3fx.jpg",
+      "description": "Dr.-Ing. h.c. F. Porsche AG, usually shortened to Porsche AG, is a German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans."
+    },
+    {
+      "id": 2,
+      "category": "cars",
+      "name": "Buggati",
+      "img": "https://res.cloudinary.com/dypubdmrm/image/upload/v1624642075/car-49278_1920_w56ln1.jpg",
+      "description": "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories."
+    },
+    {
+      "category": "food",
+      "name": "burger",
+      "img": "https://res.cloudinary.com/dypubdmrm/image/upload/v1621511662/hamburger-494706_1920_m6ajhm.jpg",
+      "description": "A hamburger is a food, typically considered a sandwich, consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.",
+      "id": 3
+    }
+  ]
+}
